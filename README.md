@@ -58,10 +58,11 @@ Press q to quit.
 
 ```bash
 emotion-detection/
-├── detect_emotion.py        # Real-time detection script
+├── main.py        # Real-time detection script
 ├── EmotionModel.h5          # Trained Keras model
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
+└── dataPreprocessing.ipynb  # Making Model process
 ```
 
 ## 💡 How It Works
